@@ -9,7 +9,7 @@
 
 - 💬 ask me about my on-chain collection
 
-- 📫 how to reach me: marv416@gmail.com
+- 📫 how to reach me: marv416@gmail.com or quami.eth
 
 <!--
 **OfficialMarvin/OfficialMarvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
