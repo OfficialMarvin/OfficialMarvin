@@ -1,9 +1,11 @@
 ## Hey frens 👋
 # Im a Penn State New Grad with a B.S. in Data Science and a passion for Web3
+
 <p align="left">
   <a><picture><img align="" height='150px' src="https://streak-stats.demolab.com?user=OfficialMarvin&theme=dark&hide_border=true&card_width=450" alt="OfficialMarvin" /></picture></a>
 </p>
-- 🔭 I’m currently working on CloudyAi.vercel.app
+
+- 🔭 I’m currently working on https://cloudyai.vercel.app/
 
 - 💬 Ask me about my blockchain obession
 
