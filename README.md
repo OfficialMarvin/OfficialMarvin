@@ -7,7 +7,7 @@
 
 - 🔭 im currently working on https://cloudyai.vercel.app/
 
-- 💬 ask me about my blockchain obession
+- 💬 ask me about my on-chain collection
 
 - 📫 how to reach me: marv416@gmail.com
 
