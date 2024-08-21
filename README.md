@@ -1,15 +1,15 @@
-## Hey frens 👋
-# Im a Penn State New Grad with a B.S. in Data Science and a passion for Web3
+## hey frens 👋
+# im a penn state new grad with a bs in data science and a passion for web3
 
 <p align="left">
   <a><picture><img align="" height='150px' src="https://streak-stats.demolab.com?user=OfficialMarvin&theme=dark&hide_border=true&card_width=450" alt="OfficialMarvin" /></picture></a>
 </p>
 
-- 🔭 I’m currently working on https://cloudyai.vercel.app/
+- 🔭 im currently working on https://cloudyai.vercel.app/
 
-- 💬 Ask me about my blockchain obession
+- 💬 ask me about my blockchain obession
 
-- 📫 How to reach me: marv416@gmail.com
+- 📫 how to reach me: marv416@gmail.com
 
 <!--
 **OfficialMarvin/OfficialMarvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
