@@ -1,4 +1,4 @@
-## hey frens 👋
+## hey 👋
 # im a penn state new grad with a bs in data science and a passion for web3
 
 <p align="left">
