@@ -5,7 +5,7 @@
   <a><picture><img align="" height='150px' src="https://streak-stats.demolab.com?user=OfficialMarvin&theme=dark&hide_border=true&card_width=450" alt="OfficialMarvin" /></picture></a>
 </p>
 
-- 🔭 im currently working on https://cloudyai.vercel.app/
+- 🔭 im currently working on https://www.cloudyai.fun/
 
 - 💬 ask me about my on-chain collection
 
