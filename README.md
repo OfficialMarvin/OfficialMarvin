@@ -1,5 +1,5 @@
 ## hey 👋
-# im a penn state new grad with a bs in data science and a passion for the blockchain
+# im a penn state new grad with a bs in data science and a passion for gen ai
 
 <p align="left">
   <a><picture><img align="" height='150px' src="https://streak-stats.demolab.com?user=OfficialMarvin&theme=dark&hide_border=true&card_width=450" alt="OfficialMarvin" /></picture></a>
