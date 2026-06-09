@@ -1,5 +1,5 @@
 ## 
-# data scientist @ cencora
+# Data Scientist @ Cencora
 
 <p align="left">
   <a><picture><img align="" height='150px' src="https://streak-stats.demolab.com?user=OfficialMarvin&theme=dark&hide_border=true&card_width=450" alt="OfficialMarvin" /></picture></a>
