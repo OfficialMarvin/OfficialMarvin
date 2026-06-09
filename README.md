@@ -1,5 +1,5 @@
-## hey 👋
-# im a penn state new grad with a bs in data science and a passion for gen ai
+## 
+# data scientist @ cencora
 
 <p align="left">
   <a><picture><img align="" height='150px' src="https://streak-stats.demolab.com?user=OfficialMarvin&theme=dark&hide_border=true&card_width=450" alt="OfficialMarvin" /></picture></a>
@@ -16,12 +16,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on CloudyAI
-- 🌱 I’m currently learning ZK
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
