@@ -1,10 +1,7 @@
 ## 
 # Data Scientist @ Cencora
 
-<p align="left">
-  <a><picture><img align="" height='150px' src="https://streak-stats.demolab.com?user=OfficialMarvin&theme=dark&hide_border=true&card_width=450" alt="OfficialMarvin" /></picture></a>
-</p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OfficialMarvin&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
 <!--
 **OfficialMarvin/OfficialMarvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
